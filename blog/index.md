@@ -4,7 +4,3 @@
 
 layout: home
 ---
-  <h1>Index</h1>
-
-  <p><strong>That's the index webpage</strong></p>
-</div>
