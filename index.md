@@ -4,3 +4,10 @@
 
 layout: home
 ---
+Text example
+
+# Header 1
+## Header 2
+
+- bullet list 1
+- bullet 2
