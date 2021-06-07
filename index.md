@@ -4,10 +4,7 @@
 
 layout: home
 ---
-Text example
+  <h1>Index</h1>
 
-# Header 1
-## Header 2
-
-- bullet list 1
-- bullet 2
+  <p><strong>That's the index webpage</strong></p>
+</div>
